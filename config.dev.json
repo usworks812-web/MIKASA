@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "bossrudro35@gmail.com",
-    "password": "Rudro@123ff#66",
+    "email": "",
+    "password": "",
     "2FASecret": "hxhjdjj",
     "i_user": "",
     "proxy": null,
@@ -13,7 +13,7 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "🎀 ˖ ࣪ʬʬ˒ 🛼 Shanks𓂃🎀 ˖",
+  "nickNameBot": "🎀 ˖ ࣪ʬʬ˒ 🛼 Ryu𓂃🎀 ˖",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -21,9 +21,9 @@
   },
   "adminBot": [
     "61576675926196",
-    "",
-    "",
-    ""
+    "61576675926196",
+    "61576675926196",
+    "61576675926196"
   ],
   "whiteListMode": {
     "enable": false,
